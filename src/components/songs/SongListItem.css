@@ -1,0 +1,19 @@
+.song-item {
+  margin: 10px 0;
+  padding: 10px 8px;
+  border-bottom: 1px solid #dadada;
+  display: flex;
+  align-items: center;
+}
+
+.text-instruction {
+  margin-left: 10px;
+}
+
+.song-name {
+  margin-right: 10px;
+}
+
+.details-toggler {
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.color-swatch {
+  display: inline-flex;
+  width: 70%;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 6px 12px;
+}

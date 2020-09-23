@@ -1,0 +1,37 @@
+{
+  "name": "emuse",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "awaity": "^1.0.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "downshift": "^3.2.7",
+    "file-saver": "^2.0.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "moment": "^2.24.0",
+    "query-string": "^6.4.2",
+    "react": "^16.8.4",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.4",
+    "react-moment": "^0.8.4",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "throttle-debounce": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

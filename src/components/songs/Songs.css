@@ -1,0 +1,58 @@
+
+#get-song-container {
+  padding-top: 20px;
+}
+
+#form-width-dropdown {
+  width: 50px;
+}
+
+#form-width-type {
+  width: 550px;
+}
+
+#song-input {
+  width: 85%;
+}
+
+.selected-values {
+  margin: 30px 0;
+}
+
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.App-search {
+  width: 40vh;
+  height: 3vh;
+  font-size: 1.25em;
+  padding: 10px 5px;
+}
+
+.App-search-again:hover,
+.App-search-result {
+  cursor: pointer;
+}
+.App-search-result {
+  list-style: none;
+}
+
+.center-text {
+  text-align: center;
+}
+
+#addButton {
+  margin-right: 20px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
